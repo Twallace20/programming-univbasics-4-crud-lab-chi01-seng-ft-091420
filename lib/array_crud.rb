@@ -29,7 +29,7 @@ def remove_element_from_start_of_array(array)
   remove_element_from_start_of_array = ["array", "wow"]
   wow_array = remove_element_from_start_of_array.shift 
   p remove_element_from_start_of_array
-  p array_array 
+  p wow_array 
 end
 
 def retrieve_element_from_index(array, index_number)
