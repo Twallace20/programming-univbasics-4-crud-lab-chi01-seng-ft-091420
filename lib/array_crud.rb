@@ -34,7 +34,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   retrieve_element_from_index = ["I", "am", "Tyler"]
-  retrieve_element_from_index[2]
+  retrieve_element_from_index array[2]
   p retrieve_element_from_index
 end
 
