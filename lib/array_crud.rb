@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
  remove_element_from_end_of_array =["nice","arrays!"]
- "arrays!" = remove_element_from_end_of_array.shift 
+ arrays!_array  = remove_element_from_end_of_array.shift 
  p remove_element_from_end_of_array
  
 end
